@@ -1,6 +1,6 @@
 # Restore Numworks firmware (Original guide by RapidZapper)
 
-# ⚠️ DOESN'T WORK ON N0120/EX, DO NOT TRY OR IT PERMANENTLY WILL BREAK YOUR CALCULATOR!
+# ⚠️ DOESN'T WORK ON N0120/EX, DO NOT TRY OR IT WILL PERMANENTLY BREAK YOUR CALCULATOR!
 
 You own a Numworks Calculator? You're a tinkerer and want to use your Numworks as your development platform during the holidays? Great! But now your calculator doesn't boot or you wish to come back on a "stable" base, we're going to show you 2 methods to start again with you Numworks!
 

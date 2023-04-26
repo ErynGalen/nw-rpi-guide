@@ -32,7 +32,7 @@ Warning: If the calculator reads "numworks.com/recsue" or is recognized as N???,
 5. On the website, a button reading "Install OMEGA" will show, you can click it to complete the installation.
 Your calculator is now working again!
 
-## 2) (Raspberry Pico) Lifebelt for <??> | N0110 >= E16
+## 2) (Raspberry Pico) Lifebelt for tinkerers | N0110 >= E16
 
 2022 New, in shortage context where prices and availability of the Raspberry Pi are low, it's now possible to use the Raspberry Pico, the little guy of the family in order to get back full control over your Numworks 😛.
 

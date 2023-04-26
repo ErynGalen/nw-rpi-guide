@@ -1,8 +1,6 @@
-# Restore Numworks firmware
+# Restore Numworks firmware (Original guide by RapidZapper)
 
-# Original guide by RapidZapper
-
-/!\ DOESN'T WORK ON N0120/EX, DO NOT TRY <OR IT WILL BREAK YOUR CALCULATOR?>
+# /!\ DOESN'T WORK ON N0120/EX, DO NOT TRY <OR IT WILL BREAK YOUR CALCULATOR?>
 
 You own a Numworks Calculator? You're a tinkerer and want to use your Numworks as your developpment platform during the holidays? Great! But now your calculator doesn't boot or you wish to come back on a "stable" base, we're going to show you 2 methods to start again with you Numworks!
 
@@ -18,8 +16,8 @@ Requirements:
 Resources:
 In order to install the firmware, you'll need a light "recovery" firmware that will allow installation of the normal firmware.
 For that you have 2 possibilities:
-- by Numworks' website (account needed) : [](https://my.numworks.com/devices/)
-- by Omega's website (no account needed!): [](https://getomega.dev/install/latest)
+- by Numworks' website (account needed) : [https://my.numworks.com/devices/](https://my.numworks.com/devices/)
+- by Omega's website (no account needed!): [https://getomega.dev/install/latest](https://getomega.dev/install/latest)
 
 In this tutorial, we're going to use the firmware form the Omega website, for its simplicity and the way more interesting features of the firmware!
 In the end will still be able to come back to Epsilon if you wish.
@@ -49,11 +47,11 @@ In order to avoid any problem it is highly recommended to have a header to conne
 
 This method targets Windows, but it should be possible to adapt the `openocd` command to Linux (not tested)
 
-Video (in french)  [](https://www.youtube.com/watch?v=ByPRX63qQMY)
+Video (in french)  [https://www.youtube.com/watch?v=ByPRX63qQMY](https://www.youtube.com/watch?v=ByPRX63qQMY)
 
 1. Download the ZIP pack and extract it: [https://bit.ly/3dpwQu8](https://bit.ly/3dpwQu8)
 2. Connect your Pico while maintaining the button pressed, you should get acces to the Pico from your file explorer. Drag and drop the "picoproble.uf2" file to your Pico, it should reboot and be ready.
-3. Connect the cables as shown in the picture: ![Pico to Numworks connections](image)
+3. Connect the cables as shown in the picture: ![Pico to Numworks connections](pico-connections.png)
 4. For an optimum operation, go the the recovery menu by pressing 6+reset, and continue from there when the recovery srceen shows up
 5. Connect the Pico to the computer and go to the folder you just extracted, then start "unlock.bat"
 6. Proceed to reboot the calculator by launching "reset.bat" and verify that the operation went successfully with "readInfo.bat". If it went well you should get

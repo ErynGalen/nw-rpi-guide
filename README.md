@@ -68,7 +68,7 @@ Now you can unplug the Pico from the calculator and plug the calculator via USB 
 After an update to Epsilon 16, any modification of the system, and thus development on the platform have been made almost impossible, but we're going to see how to bring back your dear Numworks to a state where it can obey you! That's why you bought it for, right?
 
 Requirements:
-- Numworks Calculator N0100 or N0110 with Epsilon Firmware >= 16
+- N0110 Numworks Calculator with Epsilon Firmware >= 16
 - microUSB cable to connect the calculator to the computer or equivalent device
 - computer with any OS
 - Raspberry Pi 2/3/4/0 with preferably Raspberry OS
